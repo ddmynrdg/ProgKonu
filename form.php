@@ -1,8 +1,8 @@
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>form</title>
-</head>
+ <html>
+ <head>
+ <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>form</title>
+ </head>
 <body bgcolor="powderblue">
 <form action = "kontrol.php" method = "post" >
 <h1 align="center">Kayit Formu</h1>
